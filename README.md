@@ -5,7 +5,7 @@ For any questions about this paper please contact the corresponding authors list
 
 
 ## Analysis Codes - .py files
-The repository includes the codes to perform PCA, including outlier detection using Hotelling’s T2 versus Q residual values, DAPC, SVM (both with and without SMOTE for imbalance classes) as well as learning curve. All data analyses were conducted with PyCharm. To run the code you will need standard Python packages: Pandas, Matplotlib, Numpy, Scikit-learn, Seaborn, Imblearn, and Scipy.
+The repository includes the codes to perform PCA, including outlier detection using Hotelling’s T2 versus Q residual values, DAPC, SVM (both with and without SMOTE for imbalance classes) as well as learning curves. All data analyses were conducted with PyCharm. To run the code you will need standard Python packages: Pandas, Matplotlib, Numpy, Scikit-learn, Seaborn, Imblearn, and Scipy.
 
 For each binary dataset, the excel file is loaded with sample names in first column and one-hot encoded labels in the two last columns. Datasets are available in the supplementary material. All results are discussed in the main text, the supplementary material and the extended methods.
 

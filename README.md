@@ -4,6 +4,10 @@ This repository stores the code for the submission "Prototaxites fossils are ana
 For any questions about this paper please contact the corresponding authors listed in this work. For questions related to this code please contact Corentin Loron, corentin.loron@ed.ac.uk, or Niall Rodgers, niall.rodgers@ed.ac.uk.
 
 
+[![DOI](https://zenodo.org/badge/1094141585.svg)](https://doi.org/10.5281/zenodo.17632257)
+
+
+
 ## Analysis Codes - .py files
 The repository includes the codes to perform PCA, including outlier detection using Hotelling’s T2 versus Q residual values, DAPC, SVM (both with and without SMOTE for imbalance classes) as well as learning curves. All data analyses were conducted with PyCharm. To run the code you will need standard Python packages: Pandas, Matplotlib, Numpy, Scikit-learn, Seaborn, Imblearn, and Scipy.
 

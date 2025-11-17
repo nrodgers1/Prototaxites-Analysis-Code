@@ -1,7 +1,7 @@
 # Prototaxites-Analysis-Code
 This repository stores the code for the submission "Prototaxites fossils are anatomically and chemically distinct from extinct and extant Fungi" to be published in Science Advances.
 
-For any questions about this paper please contact the corresponding authors listed in this work. For questions related to this code please contact Corentin Loron, corentin.loron@ed.ac.uk, or Niall Rodgers, niall.rodgers@ed.ac.uk.
+For any questions about this paper please contact the corresponding authors listed in this work. For questions related to this code please contact Corentin Loron, corentin.loron@ed.ac.uk, or Niall Rodgers, niall.rodgers@ed.ac.uk. To cite this code please cite the main manuscipt text. 
 
 
 [![DOI](https://zenodo.org/badge/1094141585.svg)](https://doi.org/10.5281/zenodo.17632257)
